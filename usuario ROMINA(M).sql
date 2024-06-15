@@ -1,0 +1,1 @@
+RENAME USER 'romina@localhost' TO 'raquel@localhost';
